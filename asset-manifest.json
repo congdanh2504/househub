@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/househub/static/css/main.a2593812.chunk.css",
-    "main.js": "/househub/static/js/main.178e07c0.chunk.js",
-    "main.js.map": "/househub/static/js/main.178e07c0.chunk.js.map",
+    "main.js": "/househub/static/js/main.d4d76eb6.chunk.js",
+    "main.js.map": "/househub/static/js/main.d4d76eb6.chunk.js.map",
     "runtime-main.js": "/househub/static/js/runtime-main.6c65c393.js",
     "runtime-main.js.map": "/househub/static/js/runtime-main.6c65c393.js.map",
     "static/css/2.da9aeafd.chunk.css": "/househub/static/css/2.da9aeafd.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.da9aeafd.chunk.css",
     "static/js/2.d7eea371.chunk.js",
     "static/css/main.a2593812.chunk.css",
-    "static/js/main.178e07c0.chunk.js"
+    "static/js/main.d4d76eb6.chunk.js"
   ]
 }
